@@ -9,7 +9,6 @@ This plugin will make your average user's life simpler with CSS and JS customiza
   - Remove all but necessary menu items from sidebar to top bar and make them icon
   - Make login screen beautiful
   - remove borders and other customizations to buttons, lists and dashboard screens
-  - Adds an indicator bar to indicate when WordPress is talking to the backend
 
 # License 
 
